@@ -6,7 +6,7 @@
 - 👀 I’m looking forward to a job position in sqa
 - 🌱 I’m currently learning automation testing
 - 💬 Ask me anything about software testing
-- 📫 You can reach me in my mail- somaia.afrin31@gmail.com
+- 📫 You can reach me in my mail - somaia.afrin31@gmail.com
 
 
 
