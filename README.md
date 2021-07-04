@@ -17,6 +17,7 @@
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/pycharm.png"/> </a> 
     <a href="https://www.eclipse.org/" target="_blank"> <img src="https://3.bp.blogspot.com/-HoC5nD2WYPY/WGIFWtKq_AI/AAAAAAAAAYQ/4xbI1zW7YqQ7IGKMdnt5RFzfXB_6ix_TwCLcB/s1600/eclipse.png" alt="eclipse" width="36" height="45"/> </a> 
+    <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/selenium.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  
