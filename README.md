@@ -4,7 +4,7 @@
 
 ## About Me
 - 👀 I’m looking forward to a job position in sqa
-- 🌱 I’m currently learning automation testing
+- 🌱 I’m currently learning mobile app automation
 - 💬 Ask me anything about software testing
 - 📫 You can reach me in my mail - somaia.afrin31@gmail.com
 
