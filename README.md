@@ -3,7 +3,7 @@
 </h3>
 
 ## About Me
-- 👀 I’m looking forward to a job position in sqa
+- 👩‍💻 Currently working as a Software Quality Assurance Engineer
 - 🌱 I’m currently learning different automation tools
 - 💬 Ask me anything about software testing
 - 📫 You can reach me in my mail - somaia.afrin31@gmail.com
